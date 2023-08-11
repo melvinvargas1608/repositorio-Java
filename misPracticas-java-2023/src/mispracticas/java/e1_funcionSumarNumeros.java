@@ -1,3 +1,4 @@
+// Función que suma dos números
 package mispracticas.java;
 import java.util.Scanner;
 
