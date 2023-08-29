@@ -1,7 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Programa que muestra el mayor de dos números ingresados
+
 package mispracticas.java;
 import java.util.Scanner;
 

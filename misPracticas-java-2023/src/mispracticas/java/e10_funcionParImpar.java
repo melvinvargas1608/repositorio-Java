@@ -1,6 +1,5 @@
-/*
- Crear un programa que dado un numero determine si es par o impar.
- */
+// Crear un programa que dado un numero determine si es par o impar.
+
 package mispracticas.java;
 import java.util.Scanner;
 

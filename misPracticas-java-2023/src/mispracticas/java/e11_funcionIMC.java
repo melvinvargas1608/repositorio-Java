@@ -1,6 +1,5 @@
-/*
-Calcular el imc de una persona adulta.
- */
+// Calcular el imc de una persona adulta.
+ 
 package mispracticas.java;
 import java.util.Scanner;
 
