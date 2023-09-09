@@ -6,8 +6,8 @@ package mispracticas.java;
 import java.util.Scanner;
 
 public class e15_validarNotas {
-
-    public static void main(String[] args) {
+    
+    public static void main(String[] args) {  
         Scanner input = new Scanner(System.in);
         
         int nota;
